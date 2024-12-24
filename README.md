@@ -1,3 +1,5 @@
+# Docker Project React App
+
 Docker is a platform that enables consistent application development, deployment, and shipping by packaging applications with their dependencies into isolated environments called containers. Containers, unlike virtual machines, share the host operating system’s kernel, making them more lightweight and resource-efficient. Docker utilizes a client-server architecture, with the server component, or Docker engine, managing container creation and execution.
 
 # Getting Started with Create React App
