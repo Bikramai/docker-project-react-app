@@ -74,3 +74,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+## Docker Basics
+
+### Terms
+
+Client/server architecture
+Containers
+Dockerfiles
+Docker daemon (engine)
+Docker registries
+Hypervisors
+Images
+Kernel
+Process
+Virtual machines
+
+
